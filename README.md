@@ -18,7 +18,7 @@ This repository presents an in-depth SQL-based Exploratory Data Analysis on a Fa
 | File | Description |
 |------|-------------|
 | `SQL_Fasoos.sql` | SQL file containing all the queries used for EDA |
-| `Faasos_SQL_Insights_Report.docx` | Word report with analytical questions and interpreted insights |
+| `Faasos_Dashboard_Report.docx` | Word report with analytical questions and interpreted insights |
 
 ---
 
