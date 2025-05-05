@@ -22,7 +22,7 @@ This repository presents an in-depth SQL-based Exploratory Data Analysis on a Fa
 
 ---
 
-## 🔍 Key Business Questions Answered
+## 🔍 Key Business Insights
 
 - What are the most popular food items on the platform?
 - What times of day see the highest order volumes?
